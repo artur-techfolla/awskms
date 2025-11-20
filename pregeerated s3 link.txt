@@ -1,0 +1,1 @@
+aws s3 presign s3://example88888/imgh.jpg --expires-in 604800
